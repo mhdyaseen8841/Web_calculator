@@ -1,0 +1,14 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background-color: grey;
+    margin-left: 600px;
+}
+.screen{
+width: 350px;
+height: 40px;
+margin-left: 20px;
+margin-top: 10px;
+pointer-events: none;
+    
+}
