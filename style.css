@@ -1,7 +1,7 @@
 .calc{
     width: 400px;
     height: 600px;
-    background-color: grey;
+    background-color: rgb(39, 38, 38);
     margin-left: 600px;
 }
 .screen{
@@ -10,5 +10,11 @@ height: 40px;
 margin-left: 20px;
 margin-top: 10px;
 pointer-events: none;
-    
+
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-left: 29px;
+    margin-top: 30px;
 }
